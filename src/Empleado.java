@@ -2,6 +2,7 @@ public class Empleado {
 private static  int cod_empleado;
 private  int contador;
 private String puesto;
+//ingenieria de Software//
 
 private Empleado(){}
 
