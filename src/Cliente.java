@@ -1,3 +1,3 @@
 public class Cliente {
-    private static int Nit;
+    private int Nit;
 }
