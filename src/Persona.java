@@ -12,6 +12,7 @@ public class Persona {
         dress= this.Dress;
         phone=this.phone;
         date_born=this.date_born;
+	System.out.println("pene");
     }
 
     public String getName() {
